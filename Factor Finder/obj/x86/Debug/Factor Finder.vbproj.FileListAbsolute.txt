@@ -1,0 +1,9 @@
+C:\Users\Justin\documents\visual studio 2010\Projects\Factor Finder\Factor Finder\bin\Debug\Factor Finder.exe
+C:\Users\Justin\documents\visual studio 2010\Projects\Factor Finder\Factor Finder\bin\Debug\Factor Finder.pdb
+C:\Users\Justin\documents\visual studio 2010\Projects\Factor Finder\Factor Finder\bin\Debug\Factor Finder.xml
+C:\Users\Justin\documents\visual studio 2010\Projects\Factor Finder\Factor Finder\obj\x86\Debug\Factor_Finder.Form1.resources
+C:\Users\Justin\documents\visual studio 2010\Projects\Factor Finder\Factor Finder\obj\x86\Debug\Factor_Finder.Resources.resources
+C:\Users\Justin\documents\visual studio 2010\Projects\Factor Finder\Factor Finder\obj\x86\Debug\Factor Finder.vbproj.GenerateResource.Cache
+C:\Users\Justin\documents\visual studio 2010\Projects\Factor Finder\Factor Finder\obj\x86\Debug\Factor Finder.exe
+C:\Users\Justin\documents\visual studio 2010\Projects\Factor Finder\Factor Finder\obj\x86\Debug\Factor Finder.xml
+C:\Users\Justin\documents\visual studio 2010\Projects\Factor Finder\Factor Finder\obj\x86\Debug\Factor Finder.pdb
